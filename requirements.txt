@@ -1,0 +1,6 @@
+# The requirements are only for plotting.
+# The experiment.py doesn't rely on any external library
+matplotlib
+numpy
+pandas
+notebook
