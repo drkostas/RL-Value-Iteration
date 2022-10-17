@@ -5,7 +5,7 @@
 # Example usage: ./run_for_thetas.sh 0.1 0.01 0.001 0.0001 0.00001 0.000001 
 
 # set the python executable
-PYTHON=/Users/gkos/anaconda3/envs/rl_proj1/bin/python
+PYTHON=/Users/gkos/anaconda3/envs/rl_proj1/bin/python  # Replace with your python executable
 # Load the arguments
 theta_values=("$@")
 # Clear the file

@@ -7,7 +7,7 @@
 # The script takes any number of arguments that represent different gammas values
 # for the experiment.py script.
 # set the python executable
-PYTHON=/Users/gkos/anaconda3/envs/rl_proj1/bin/python
+PYTHON=/Users/gkos/anaconda3/envs/rl_proj1/bin/python  # Replace with your python executable
 # Load the arguments
 gamma_values=("$@")
 # Clear the file
