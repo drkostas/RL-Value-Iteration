@@ -1,4 +1,4 @@
-# Youtube Comment Bot
+# Reinforcement Learning - Value Iteration Implementation
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/drkostas/RL-Value-Iteration/master/LICENSE)
 <a href="https://www.buymeacoffee.com/drkostas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="25" ></a>
