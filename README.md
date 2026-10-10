@@ -1,3 +1,5 @@
+![RL-Value-Iteration](img/banner.png)
+
 # Reinforcement Learning - Value Iteration Implementation
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/drkostas/RL-Value-Iteration/master/LICENSE)
