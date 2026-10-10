@@ -1,0 +1,15 @@
+kind: banner
+name: RL-Value-Iteration
+line: Computes the best policy for a Markov decision process with value iteration.
+accent: violet
+diagram:
+- panes:
+    rows: 2
+    cols: 2
+    label: states
+- arrow
+- box:
+    text: value iteration
+- arrow
+- check:
+    label: policy
